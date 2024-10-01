@@ -1,2 +1,0 @@
-# QuizBrain
-Quiz Brain Project
