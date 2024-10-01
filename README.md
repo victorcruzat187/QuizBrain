@@ -1,2 +1,2 @@
 # QuizBrain
-Quiz Brain Proje
+Quiz Brain Project
